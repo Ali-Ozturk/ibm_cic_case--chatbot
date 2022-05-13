@@ -33,7 +33,7 @@ For this project, I wanted to challenge myself by implementing new technologies 
 **Kafka** topics for storing user events such as; 
 
 * User messages that the agent did not recognize
-* All user messages for real-time analytical purposes
+* All user messages for real-time analytical purposes and temporary storage
 
 **Cassandra database** to store all messages for persistence (Idea was that we might want to look at how we can improve the agent in the future)
 
@@ -86,7 +86,7 @@ npm start
 
 #### Backend
 
-Currently it is not possible to start the microservices simutaneously, so you will have to start them individually
+Currently it is not possible to start the microservices simutaneously, so you will have to start them individually. The project has two microservices; `chat` and `authentication`.
 
 ```
 cd ./chatbot--backend/
