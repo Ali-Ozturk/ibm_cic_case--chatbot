@@ -35,7 +35,7 @@ For this project, I wanted to challenge myself by implementing new technologies 
 * User messages that the agent did not recognize
 * All user messages for real-time analytical purposes and temporary storage
 
-**Cassandra database** to store all messages for persistence (Idea was that we might want to look at how we can improve the agent in the future)
+**Cassandra (or any other) database** to store all messages for persistence (Idea was that we might want to look at how we can improve the agent in the future)
 
 **Google Dialogflow** for agent behaviour and answers. This was chosen to utilize some of the features that google cloud can offer, such as matching user messages to configured intents. Furthermore, the service was chosen because it offers an API that allows us to integrate it to my own application. 
 
