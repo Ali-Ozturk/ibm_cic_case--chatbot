@@ -20,7 +20,7 @@ For this project, I wanted to challenge myself by implementing new technologies 
 
 ### Expected architectural design
 
-![image-20220513073942852](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20220513073942852.png)
+![image-20220513073942852](./images/Architecture.png)
 
 ### Technologoies planned for project
 
@@ -60,7 +60,7 @@ These are the technologies that I managed to implement during the limited time
 
 I quickly had a good idea of how I wanted the application to look like and started on a very basic mockup for the system after determining the architecture. Unfortunately, I did not have time to polish and showcase the various components that I wanted to include in the web application. The main ideas was that I wanted two pages; one that would show a basic frontpage for a user and a page for administrators in which the chat agent could be configured and tested.  
 
-![image-20220513080115121](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20220513080115121.png)
+![image-20220513080115121](./images/Adminpage.png)
 
 
 
