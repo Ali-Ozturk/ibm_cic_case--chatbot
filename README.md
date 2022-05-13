@@ -66,9 +66,32 @@ I quickly had a good idea of how I wanted the application to look like and start
 
 ### Installation and Setup
 
+Clone the repository
+
+```git
+git clone https://github.com/Ali-Ozturk/ibm_cic_case--chatbot.git
+```
+
+The frontend and backend implementations are split into two folders; `chatbot--frontend` and`chatbot--backend`, respectively. Below you can find instructions for running them.
+
 #### Frontend
 
+```
+cd ./chatbot--frontend/
+npm install
+npm start
+```
+
+
+
 #### Backend
+
+Currently it is not possible to start the microservices simutaneously, so you will have to start them individually
+
+```
+cd ./chatbot--backend/
+
+```
 
 
 

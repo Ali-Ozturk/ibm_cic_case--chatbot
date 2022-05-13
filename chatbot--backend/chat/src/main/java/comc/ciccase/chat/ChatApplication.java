@@ -12,7 +12,7 @@ public class ChatApplication {
         SpringApplication.run(ChatApplication.class, args);
     }
 
-    // TODO: Kafka package? service?
+    // TODO: Implement proper kafka topics
 
     @Bean
     public NewTopic topic() {
